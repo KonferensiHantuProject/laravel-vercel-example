@@ -19,4 +19,4 @@ Route::get('/', function () {
 });
 
 // Example
-Route::get('/', [ExampleController::class, 'index']);
+Route::get('/example', [ExampleController::class, 'index']);
