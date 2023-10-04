@@ -1,1 +1,1 @@
-<h1>Hello</h1>
+<h1>Hello This is an example laravel app that is able to run in vercel</h1>
